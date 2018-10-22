@@ -212,7 +212,7 @@
     "gateway_conf": {
         "gateway_ID": "eui-fcc23dfffe0f7462",
         /* change with default server address/ports, or overwrite in local_conf.json */
-        "server_address": "router.eu.thethings.network",
+        "server_address": "136.243.107.34",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         /* adjust the following parameters for your network */
